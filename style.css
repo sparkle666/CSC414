@@ -43,6 +43,9 @@ tr:nth-child(even){
 h3 {
   text-align: center;
 }
+footer{
+    text-align: center;
+}
 button {
   background: none;
   border: 0;
